@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name"> testeLogin</string>
+    <string name="configuracao">Configuração</string>
+    <string name= "continuar"> Continuar </string >
+    <string name= "novojogo"> Novo Jogo </string >
+    <string name= "voltar"> Voltar </string >
+</resources>
